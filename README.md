@@ -63,8 +63,8 @@ Dataset and challenge: Onyx Data (#dataDNA, October 2026), with SmartFrames UI a
 Dashboard layout inspiration: Frank Agba
 
 ## Author
-Felix Ukamaka Peace, Data Analyst
-LinkedIn: linkedin.com/in/ukamaka-felix-4160993ab
-GitHub: github.com/felix-peace
-Portfolio: felix-ukamaka-peace.lovable.app
+Felix Ukamaka Peace, Data Analyst<br>
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/ukamaka-felix-4160993ab)<br>
+GitHub: [github.com/felix-peace](https://github.com/felix-peace)<br>
+Portfolio: [felix-ukamaka-peace.lovable.app](https://felix-ukamaka-peace.loveable.app)<br>
 #dataDNA #PowerBI #DataAnalytics
