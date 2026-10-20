@@ -30,9 +30,18 @@ Product strategy: focus on the highest-margin categories, filter coffee and espr
 Operations: plan staffing around lower weekend and bank holiday demand.
 
 ## Dashboard Pages
-1. Performance Overview: profit margin by region and location type, monthly profit trend, store health, and key findings.
-2. Store Cost and Efficiency: gross margin, staffing and rent shares, revenue per sq ft, top profit gainers, rent vs revenue by store, regional cost comparison, and a store scorecard.
-3. Customer and Product Insights: loyalty net value by region and location type, revenue mix 2023 vs 2024, product margin by category, and weekday vs weekend vs bank holiday sales.
+
+![Performance Overview](performance-overview.png)
+
+Performance Overview: profit margin by region and location type, monthly profit trend, store health, and key findings.
+<br><br>
+![Store Cost and Efficiency](store-cost-efficiency.png)
+
+Store Cost and Efficiency: gross margin, staffing and rent shares, revenue per sq ft, top profit gainers, rent vs revenue by store, regional cost comparison, and a store scorecard.
+<br><br>
+![Customer and Product Insights](customer-product-insights.png)
+
+Customer and Product Insights: loyalty net value by region and location type, revenue mix 2023 vs 2024, product margin by category, and weekday vs weekend vs bank holiday sales.
 Every page has Year, Region and Location slicers, page navigation buttons, and a Reset button.
 
 ## Tools Used
