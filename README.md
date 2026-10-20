@@ -3,8 +3,7 @@ Where Every £1 Goes
 A 3-page Power BI report analysing 60 UK coffee stores across 2023 and 2024. It shows where the business makes money, where profit leaks, and what to do next.
 Built for the October 2026 #dataDNA Dataset Challenge by Onyx Data.
 
-�
-Load image
+![Sunrise Coffee Chain Dashboard](sunrise-coffee-complete.png)
 
  ## Project Overview
 Sunrise Coffee Chain operates 60 stores across the UK. The Chief Commercial Officer needs to know:
