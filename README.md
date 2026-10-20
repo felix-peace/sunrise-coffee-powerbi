@@ -7,11 +7,11 @@ Built for the October 2026 #dataDNA Dataset Challenge by Onyx Data.
 
  ## Project Overview
 Sunrise Coffee Chain operates 60 stores across the UK. The Chief Commercial Officer needs to know:
-Which locations and regions deliver the strongest and weakest profit
-Whether the loyalty programme pays for itself
-How product mix and margins shape revenue
-When the business trades well and when it doesn't
-The report answers those questions in three pages, written so a non-technical reader can follow it.
+1. Which locations and regions deliver the strongest and weakest profit
+2. Whether the loyalty programme pays for itself
+3. How product mix and margins shape revenue
+4. When the business trades well and when it doesn't
+5. The report answers those questions in three pages, written so a non-technical reader can follow it.
 
 ## Key Insights
 1. Profitability: £90M revenue and £17M net profit give a net profit margin of 18.8% (about 19p per £1 of revenue), broadly flat from 2023 to 2024.
@@ -24,10 +24,10 @@ The report answers those questions in three pages, written so a non-technical re
 8. Seasonality: Weekend and bank holiday revenue run below weekday levels across all location types.
 
 ## Recommendations
-Expansion: prioritise train station and shopping centre sites, and review London's rent and staffing costs before expanding there.
-Loyalty: retain the programme, given its strong net value and revenue share.
-Product strategy: focus on the highest-margin categories, filter coffee and espresso.
-Operations: plan staffing around lower weekend and bank holiday demand.
+1. Expansion: prioritise train station and shopping centre sites, and review London's rent and staffing costs before expanding there.
+2. Loyalty: retain the programme, given its strong net value and revenue share.
+3. Product strategy: focus on the highest-margin categories, filter coffee and espresso.
+4. Operations: plan staffing around lower weekend and bank holiday demand.
 
 ## Dashboard Pages
 
@@ -45,18 +45,18 @@ Customer and Product Insights: loyalty net value by region and location type, re
 Every page has Year, Region and Location slicers, page navigation buttons, and a Reset button.
 
 ## Tools Used
-Power BI Desktop: data model, visuals and interactivity
-Power Query: data cleaning and transformation
-DAX: measures and calculated columns
-PowerPoint: custom page background and layout frame
+Power BI Desktop: data model, visuals and interactivity.<br>
+Power Query: data cleaning and transformation.<br>
+DAX: measures and calculated columns.<br>
+PowerPoint: custom page background and layout frame.<br>
 
 ## Data Cleaning (Power Query)
-Loaded all five tables and checked column quality and distribution on the entire data set
-Confirmed no duplicate IDs, and no errors or empty values in key columns
-Removed unneeded filter and sort steps
-Standardised text labels (hyphens replaced with spaces in several columns)
-Shortened store names by removing the repeated "Sunrise Coffee" prefix
-Set correct data types for dates, whole numbers and decimals
+Loaded all five tables and checked column quality and distribution on the entire data set.<br>
+Confirmed no duplicate IDs, and no errors or empty values in key columns.<br>
+Removed unneeded filter and sort steps.<br>
+Standardised text labels (hyphens replaced with spaces in several columns).<br>
+Shortened store names by removing the repeated "Sunrise Coffee" prefix.<br>
+Set correct data types for dates, whole numbers and decimals.<br>
 
 ## Credits
 Dataset and challenge: Onyx Data (#dataDNA, October 2026), with SmartFrames UI and Data Career Jumpstart
